@@ -1,8 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
 
-
-
 type ButtonStyles = {
   backgroundColor: string;
   selected: boolean;
